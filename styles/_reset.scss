@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*, button, input {
+    font-family: --apple-system, Ubuntu, Arial, sans-serif;
+}//1º fonte de escolha será a apple system, depois Ubuntu, etc
+
+*, li {
+    list-style: none;
+}
